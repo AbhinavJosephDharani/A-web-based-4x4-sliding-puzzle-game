@@ -55,4 +55,4 @@ A web-based sliding puzzle game built with HTML, CSS, and JavaScript. The goal i
 - **New Game button**: Start a new randomly scrambled puzzle
 - **Simple Game button**: Start a puzzle solvable in one move
 
-Enjoy playing the 4x4 Sliding Puzzle Game! 
+Enjoy playing the 4x4 Sliding Puzzle Game!
